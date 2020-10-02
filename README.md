@@ -1,0 +1,2 @@
+# Commands
+ban & kick command
