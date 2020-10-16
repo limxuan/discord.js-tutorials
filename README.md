@@ -1,6 +1,5 @@
 # Youtube Link
-[UPLOADING]
-
+https://youtu.be/Gs3YAZI0UiM
 # ⇥ Discord.JS-Coding-Tutorials ⇤
 
 ➽ Official GitHub of recon on YouTube, Discord.JS Coding Tutorials v12, 
