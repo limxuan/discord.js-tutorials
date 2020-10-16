@@ -17,7 +17,7 @@ First You have to click on The Branches:
 ![image](https://user-images.githubusercontent.com/59381835/83589430-8bae5180-a508-11ea-975a-ae4fee409fde.png)
 
 <div align="center">
-  <a href="https://discord.gg/2RPg23k">
+  <a href="https://discord.gg/xCCpfth">
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
   </a>
   <a href="https://youtube.com/dashcruft">
