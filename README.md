@@ -7,4 +7,4 @@
 </div>
 
 ### If you are you need support on the codes feel free to join the support server!
-+ Help Command (Youtube Video) : https://youtu.be/Gs3YAZI0UiM
++ Reaction Role Tutorial (Youtube Video) : https://youtu.be/Gs3YAZI0UiM
