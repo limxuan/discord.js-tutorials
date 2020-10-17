@@ -5,6 +5,7 @@
     <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
   </a>
 </div>
+
 # Join the discord support server by clicking the discord icon to get support if you encounter any errors.
 
 
