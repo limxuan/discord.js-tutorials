@@ -7,4 +7,4 @@
 </div>
 
 ### If you are you need support on the codes feel free to join the support server!
-+ Help Command (Youtube Video) : 
++ Help Command (Youtube Video) : https://youtu.be/g1o46EizShA
