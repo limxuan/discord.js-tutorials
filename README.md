@@ -7,4 +7,4 @@
 </div>
 
 ### If you are you need support on the codes feel free to join the support server!
-+ Help Command (Youtube Video) : https://youtu.be/TetHbeEOLio
++ AFK Command (Youtube Video) : https://youtu.be/GYGrp3KOOH0
