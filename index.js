@@ -1,3 +1,8 @@
+const usersMap = new Map();
+const LIMIT = 5;
+const TIME = 7000;
+const DIFF = 3000;
+
 client.on('message', async(message) => {
     if(message.author.bot) return;
     if(usersMap.has(message.author.id)) {
