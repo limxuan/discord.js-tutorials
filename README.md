@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="dsc.bio/recon">
+  <a href="https://dsc.bio/recon">
     <img src="https://i.imgur.com/MHwujoB.png" alt="Discord"/>
   </a>
 </div>
