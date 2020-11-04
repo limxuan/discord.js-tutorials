@@ -1,5 +1,8 @@
-// replace the files accordingly
+// require the file
+const blacklist = require('./models/blacklist')
 
+
+// replace the files accordingly
     if (!message.content.startsWith(prefix)) return;
     blacklist.findOne({ id : message.author.id }, async(err, data) => {
         if(err) throw err;
