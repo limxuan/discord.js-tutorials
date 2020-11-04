@@ -1,3 +1,13 @@
+//schema  -----------------------------------------
+ 
+client.ticketTranscript = mongoose.model('transcripts', 
+    new mongoose.Schema({
+        Channel : String,
+        Content : Array
+    })
+)
+// -------------------------------------------------
+
 client.on('message', async(message) => {
     if(message.channel.parentID !== '756890395392081985') return;
     client.ticketTranscript.findOne({ Channel : message.channel.id }, async(err, data) => {
