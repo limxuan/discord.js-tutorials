@@ -8,3 +8,9 @@
 
 ### If you are you need support on the codes feel free to join the support server!
 + Ban & Kick command (Youtube Video) : https://youtu.be/DsQIQtDZy9c
+
+<div align="center">
+  <a href="dsc.bio/recon">
+    <img src="https://i.imgur.com/MHwujoB.png" alt="Discord"/>
+  </a>
+</div>
