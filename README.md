@@ -5,7 +5,7 @@
 </div>
 
 ### If you are you need support on the codes feel free to join the support server!
-+ Ticket Bot + Transcript Command (Youtube Video) : https://youtu.be/e8LotpZ-ha8
++ Custom per guild prefix : https://youtu.be/e8LotpZ-ha8
 
 <div align="center">
   <a href="https://discord.gg/xCCpfth">
