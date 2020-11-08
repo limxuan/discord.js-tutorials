@@ -5,7 +5,7 @@
 </div>
 
 ### If you are you need support on the codes feel free to join the support server!
-+ Ticket Bot + Transcript Command (Youtube Video) : https://youtu.be/BIQZr5W1v44
++ Blacklist command (Youtube Video) : https://youtu.be/BIQZr5W1v44
 
 <div align="center">
   <a href="https://discord.gg/xCCpfth">
