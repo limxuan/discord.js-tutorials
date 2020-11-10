@@ -5,7 +5,7 @@
 </div>
 
 ### If you are you need support on the codes feel free to join the support server!
-+ mute / unmute / temppmute cid : https://youtu.be/BixNG_oqYN8
++ mute / unmute / tempmute vid: https://youtu.be/BixNG_oqYN8
 
 <div align="center">
   <a href="https://discord.gg/xCCpfth">
