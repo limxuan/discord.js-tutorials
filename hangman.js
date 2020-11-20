@@ -1,3 +1,5 @@
+const { hangman } = require('reconlx')
+
 module.exports = {
     name : 'hangman',
     run : async(client, message, args) => {
