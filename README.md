@@ -6,6 +6,8 @@
   </a>
 </div>
 
+# Watch the event handler video to handle .on events https://youtu.be/-YTb_cUlzv4 (needed in the future videos)
+
 # Join the discord support server by clicking the discord icon to get support if you encounter any errors.
 
 
