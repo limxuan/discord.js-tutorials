@@ -6,7 +6,7 @@
 
 
 ### If you are you need support on the codes feel free to join the support server!
-+ Set Language TUTORIAL : https://youtu.be/A2OZMrwrzWM
++ Discord.js Documentation : https://youtu.be/-9WiyGH-8s4
 
 <div align="center">
   <a href="https://discord.gg/xCCpfth">
