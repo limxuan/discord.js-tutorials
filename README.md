@@ -24,3 +24,4 @@ It should look something like this
 # Contacts
 -recon#0001 on discord
 
+ [![Run on Repl.it](https://repl.it/badge/https://github.com/nrglx/discord.js-tutorials/tree/recon-handler)]
